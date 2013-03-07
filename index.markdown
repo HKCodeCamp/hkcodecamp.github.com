@@ -1,3 +1,7 @@
+---------------------------------------------
+-layout: page
+---------------------------------------------
+
 # Hong Kong Code Camp
 
 A 24 hour hackathon
@@ -33,7 +37,7 @@ Projects can be anything, but you should bear these things in mind;
    And come to Code Camp ready to push it to the max.
 
 So get thinking before the event, and come to the Idea Factory ready to show off your great ideas.
- 
+
 ## Wednesday Night Idea Factory
 
 The *Idea Factory* is like the whole of Startup Weekend crammed into one evening.
@@ -55,4 +59,4 @@ The aim is to finalise the idea, choose a technology stack, and start doing some
 
 Codeaholics
 ===========
-A 
+A
