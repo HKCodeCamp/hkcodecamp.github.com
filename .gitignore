@@ -1,1 +1,5 @@
+# no generated html
 _site/
+
+# keep the lockfile out
+Gemfile.lock
