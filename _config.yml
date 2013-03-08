@@ -1,3 +1,2 @@
-sass:
-  syntax: scss
-  style:  compressed
+exclude: ["Gemfile", "Gemfile.lock", "README.md"]
+safe: false

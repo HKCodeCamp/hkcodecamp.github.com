@@ -1,6 +1,6 @@
----------------------------------------------
--layout: page
----------------------------------------------
+---
+layout: page
+---
 
 # Hong Kong Code Camp
 
@@ -54,9 +54,3 @@ At the end (with  bit of diplomacy) everyone will be on a team doing something t
 
 The rest of the evening is spent together as a team.
 The aim is to finalise the idea, choose a technology stack, and start doing some research.
-
-
-
-Codeaholics
-===========
-A
