@@ -7,7 +7,8 @@ body {
 }
 
 .page {
-  padding: 10px 0px;
+  margin: 20px;
+  padding: 20px;
   border: 20px double #dd4814;
   background: white;
 }
