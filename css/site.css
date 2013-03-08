@@ -2,8 +2,19 @@ h1,h2 {
   color: #d44413;
 }
 
+h1 {
+  font-size: 36px;
+  line-height: 40px;
+}
+
+h2 {
+  font-size: 30px;
+  line-height: 40px;
+}
+
 body {
   background: #ddd;
+  font-size: 1em;
 }
 
 .page {
