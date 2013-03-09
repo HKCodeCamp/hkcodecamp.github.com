@@ -3,7 +3,7 @@ layout: page
 title: Code Camp 01 - October 2012
 ---
 
-# Hong Kong Code Camp #1
+# Code Camp 01
 ## October 2012
 
 Our first ever event took place in October 2012 at Cocoon.
