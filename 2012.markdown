@@ -1,5 +1,6 @@
 ---
 layout: page
+title: Code Camp 01 - October 2012
 ---
 
 # Hong Kong Code Camp #1

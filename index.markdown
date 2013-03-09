@@ -1,5 +1,6 @@
 ---
 layout: page
+title: What is?
 ---
 
 # Hong Kong Code Camp
