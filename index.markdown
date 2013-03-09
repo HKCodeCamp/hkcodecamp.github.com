@@ -4,7 +4,7 @@ layout: page
 
 # Hong Kong Code Camp
 
-A 24 hour hackathon
+A 24 hour hackathon event held in the wonderful city of Hong Kong.
 
 ## The Concept
 
@@ -21,20 +21,23 @@ We need your ideas for what to build on the day.
 
 Projects can be anything, but you should bear these things in mind;
 
-1. You only have 24 hours, so try to break it down to the minimum.
-   Its good to aim to get something working by halfway, and spend the second half making it awesome.
+### 1. You only have 24 hours, so try to break it down to the minimum.
 
-2. Teams will be 4 to 6 people.
-   A good idea will be easy to break up into chunks.
-   Maybe one person builds the iOS app, another makes it look good.
-   Maybe one person does the server-side API, and another does facebook integration.
+Its good to aim to get something working by halfway, and spend the second half making it awesome.
 
-3. Choose technologies you know.
-   While its always fun to try out new tools,
-   finishing a project in 24 hours is difficult enough using a language or framework you know well. You don't want to hit.
+### 2. Teams will be 4 to 6 people.
 
-   If you want to try something new, dedicate a weekend before to play with it.
-   And come to Code Camp ready to push it to the max.
+A good idea will be easy to break up into chunks.
+Maybe one person builds the iOS app, another makes it look good.
+Maybe one person does the server-side API, and another does facebook integration.
+
+### 3. Choose technologies you know.
+
+While its always fun to try out new tools,
+finishing a project in 24 hours is difficult enough using a language or framework you know well. You don't want to hit.
+
+If you want to try something new, dedicate a weekend before to play with it.
+And come to Code Camp ready to push it to the max.
 
 So get thinking before the event, and come to the Idea Factory ready to show off your great ideas.
 

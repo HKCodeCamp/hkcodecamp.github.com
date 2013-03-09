@@ -1,0 +1,31 @@
+---
+layout: page
+---
+
+# Hong Kong Code Camp #1
+## October 2012
+
+Our first ever event took place in October 2012 at Cocoon.
+
+Starting off with the Idea Factory on Wednesday evening,
+we ended up with 9 teams building a wide variety of different projects.
+
+# The Teams
+
+## Web Diff
+### Jonas, Eddie W, William Taysom
+
+- a diffing tool to visualise changes made to a website over time
+- a Chrome extension, written in javascript
+
+## Punch Me If You Can
+### Eddie Lau, Lincoln Lee, Chris Yuen, Alvin Hon
+
+- a motion detection game, simulating punching a photo on screen
+- built with kinect, android, iphone, ruby, and html5
+
+## Bartr
+### Chris, Vinci, Francis, Stig, Daniel
+
+- Buy and sell items on your mobile, right here, right now
+- a web app with ruby, and maybe ios
