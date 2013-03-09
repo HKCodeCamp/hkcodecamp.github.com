@@ -29,3 +29,39 @@ we ended up with 9 teams building a wide variety of different projects.
 
 - Buy and sell items on your mobile, right here, right now
 - a web app with ruby, and maybe ios
+
+## I Hate Flight Delays
+### YKY, Xiao Bing Shi, Lu Wen Long, Tony Yet
+
+- Complain about flight delays
+- a mobile app using phone gap, with an API using Ruby
+
+## Spatialize
+### Bo, Leonard Siu, Sam Yuen
+
+- overlay sensor data on the floorplan of a datacentre
+- built with java and javascript
+
+## Awkr
+### William Taysom
+
+- an awk-like dsl for ruby
+
+## Vocably
+### Godfrey, Mart, Leo, Hubert, Alex, Mathis, Vaughn
+
+- enhance your english vocabulary
+- train it on your email and twitter feed
+- it suggests new words to learn
+
+## Stalker
+### Dave The Ninja, Copland, Peter, CY, Michil, Max
+
+- a celebrity spotting app
+- a mobile app with camera and location integration
+
+## Dislike This
+### Jason, Guy, Sergio, Ivan, Nikolai
+
+- tell the world about things you don't like
+- a web and mobile app with camera and location integration

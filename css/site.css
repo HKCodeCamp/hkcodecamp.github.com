@@ -31,3 +31,9 @@ body {
   border: 20px double #dd4814;
   background: white;
 }
+
+@media (max-width: 767px) {
+  .page {
+    margin: 20px 0;
+  }
+}
