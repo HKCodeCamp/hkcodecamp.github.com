@@ -24,6 +24,8 @@ body {
   font-family: sans-serif;
 }
 
+/* page */
+
 .page {
   margin: 20px;
   padding: 20px;
@@ -36,4 +38,37 @@ body {
   .page {
     margin: 20px 0;
   }
+}
+
+/* banner */
+
+.banner {
+  text-align: center;
+  width: 100%;
+  background: white;
+  border-width: 10px 0;
+  border-color: #dd4814;
+  border-style: dotted;
+}
+
+.banner-image {
+  height: 160px;
+  float: left;
+}
+
+/* clearfix */
+
+.clearfix {
+  *zoom: 1;
+}
+
+.clearfix:before,
+.clearfix:after {
+  display: table;
+  content: "";
+  line-height: 0;
+}
+
+.clearfix:after {
+  clear: both;
 }
