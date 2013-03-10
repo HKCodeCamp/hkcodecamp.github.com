@@ -13,10 +13,10 @@ Everyone wins.
 
 # Past Sponsors
 
-- Thought Sauce
-- Cocoon
-- Hooko
-- Stig's company (todo, check the name)
+- (Thought Sauce)[http://thought-sauce.com]
+- (Cocoon)[http://www.hkcocoon.org]
+- (Hooko)[http://hooko.com]
+- (PQX)[http://www.pqx.hk]
 
 # Want to sponsor our next event?
 
