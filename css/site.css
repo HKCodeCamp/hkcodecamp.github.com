@@ -56,6 +56,24 @@ body {
   float: left;
 }
 
+/* navbar */
+
+/*.navbar {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.navbar li {
+  display: inline-block;
+}
+
+.navbar-item {
+  padding: 5px;
+  margin: 5px;
+  background: white;
+}*/
+
 /* clearfix */
 
 .clearfix {

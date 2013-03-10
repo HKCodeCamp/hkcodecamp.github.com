@@ -13,10 +13,10 @@ Everyone wins.
 
 # Past Sponsors
 
-- (Thought Sauce)[http://thought-sauce.com]
-- (Cocoon)[http://www.hkcocoon.org]
-- (Hooko)[http://hooko.com]
-- (PQX)[http://www.pqx.hk]
+- [Thought Sauce](http://thought-sauce.com)
+- [Cocoon](http://www.hkcocoon.org)
+- [Hooko](http://hooko.com)
+- [PQX](http://www.pqx.hk)
 
 # Want to sponsor our next event?
 
