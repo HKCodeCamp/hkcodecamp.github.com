@@ -1,3 +1,4 @@
+@import url(https://fonts.googleapis.com/css?family=Ubuntu);
 h1,h2,h3 {
   color: #d44413;
 }
@@ -21,7 +22,7 @@ body {
   background: #ddd;
   font-size: 20px;
   line-height: 24px;
-  font-family: sans-serif;
+  font-family: 'Ubuntu', sans-serif;
 }
 
 /* page */
