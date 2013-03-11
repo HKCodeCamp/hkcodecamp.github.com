@@ -11,6 +11,8 @@ A 24 hour hackathon event held in the wonderful city of Hong Kong.
 
 Hong Kong Code Camp is like "Startup Weekend for Coders"
 
+48 hours of planning, 24 hours of code
+
 Come with an idea, join a team, and build something.
 
 ## Questions
