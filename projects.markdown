@@ -23,7 +23,7 @@ Maybe one person does the server-side API, and another does facebook integration
 ## You don't have time to experiment too much
 
 While its always fun to try out new tools,
-finishing a project in 24 hours is difficult enough using a language or framework you know well. You don't want to hit.
+finishing a project in 24 hours is difficult enough using a language or framework you know well.
 
 If you want to try something new, dedicate a weekend before to play with it.
 And come to Code Camp ready to push it to the max.
