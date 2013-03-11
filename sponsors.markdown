@@ -20,7 +20,7 @@ Everyone wins.
 
 # Want to sponsor our next event?
 
-Get in touch.
+[Get in touch](matthewrudyjacobs+codecamp@gmail.com).
 
 You can help by sponsoring a meal, midnight snacks, tools to use during the event, or prizes for the competing teams
 
