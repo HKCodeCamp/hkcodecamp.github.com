@@ -12,3 +12,5 @@ A 24 hour hackathon event held in the wonderful city of Hong Kong.
 Hong Kong Code Camp is for *coders* of any kind
 
 Whether you work in a bank, a hot startup, or you're still studying, you are welcome.
+
+![Working together](images/cc01/L1023991-M.jpg)

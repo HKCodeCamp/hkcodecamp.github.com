@@ -23,3 +23,5 @@ Everyone wins.
 Get in touch.
 
 You can help by sponsoring a meal, midnight snacks, tools to use during the event, or prizes for the competing teams
+
+![Getting things done](images/cc01/L1023973-M.jpg)

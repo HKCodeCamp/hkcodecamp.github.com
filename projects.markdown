@@ -29,3 +29,5 @@ If you want to try something new, dedicate a weekend before to play with it.
 And come to Code Camp ready to push it to the max.
 
 So get thinking before the event, and come to the Idea Factory ready to show off your great ideas.
+
+![Learning new skills](images/cc01/L1023935-M.jpg)

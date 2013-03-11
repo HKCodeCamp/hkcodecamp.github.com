@@ -30,6 +30,8 @@ At the end of the evening each team fills out a form with the following things
 - a description of what they're going to build
 - the technology they're going to use
 
+![Sharing ideas](images/cc01/L1023942-M.jpg)
+
 # Thursday and Friday - Preparation
 
 Hong Kong Code Camp is about having fun, and building cool stuff, in a limited amount of time.
@@ -52,6 +54,9 @@ Each team chooses a representative, and has 1 minute to let everyone know their 
 - What they're going to do next
 - Any problems they've had
 
+![Working together](images/cc01/L1023977-M.jpg)
+
+
 # Saturday Night - Finale & Dinner
 
 At about 7pm on Saturday night, Hong Kong Code Camp reaches the finale.
@@ -59,6 +64,5 @@ At about 7pm on Saturday night, Hong Kong Code Camp reaches the finale.
 Each team does a short presentation, showing off what they've built.
 
 And finally we go get a well-earned dinner!
-
 
 
