@@ -13,6 +13,14 @@ Hong Kong Code Camp is like "Startup Weekend for Coders"
 
 Come with an idea, join a team, and build something.
 
+## Questions
+
+- [What kind of Projects do we build?](projects.html)
+- [What's the Schedule](schedule.html)
+- [Can I Sponsor?](sponsors.html)
+- [What were previous events like?](cc01.html)
+- [When is the next event?](cc02.html)
+
 ## Join Us
 
 Hong Kong Code Camp is for *coders* of any kind
